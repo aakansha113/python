@@ -1,7 +1,8 @@
-a=20
-b=15
+a=5
+b=2
 print(a+b)
 print(a-b)
 print(a*b)
 print(a/b)	
-
+print(a%b)
+print(a**b)
